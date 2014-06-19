@@ -3,6 +3,12 @@ Website to upload and group photos by location
 Last edits circa 2010
 ==========
 
+Never use this in a production environment!
+The upload script isn't protected, so anyone can upload anything with it!
+The login script isn't scrubbed, so junk can be injected!
+
+==========
+
 I started building this during college (hence why the code is beyond dreadful 
 and is severely hacked up) to basically build a community photo album 
 website where pictures could be uploaded and tagged by location or event.
@@ -16,5 +22,3 @@ So I went back to school and started studying oceanography.
 ==========
 
 Released under MIT license.
-But really, this code is shit. Don't use it. Don't even look at it.
-I'm embarrassed.
